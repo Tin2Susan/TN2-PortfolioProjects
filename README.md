@@ -1,4 +1,4 @@
-Paris 2024 Olympics Data Analysis & Visualization
+# Paris 2024 Olympics Data Analysis & Visualization
 
 # Project Overview
 
