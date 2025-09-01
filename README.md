@@ -11,13 +11,21 @@ The goal of this project is to demonstrate end-to-end data analysis skills: from
 The dataset consists of multiple CSV files containing Olympic-related information, including:
 
 athletes.csv – athlete details (name, gender, age, sport, country)
+
 coaches.csv – coach assignments
+
 events.csv – list of Olympic events
+
 medals.csv – medal distribution by athlete and event
+
 medals_total.csv – total medal counts by country
+
 schedule.csv / schedule_preliminary.csv – match and event schedules
+
 teams.csv – team participation details
+
 results.csv – event outcomes
+
 venues.csv – venue details for competitions
 
 # Tools & Technologies
